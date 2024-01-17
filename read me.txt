@@ -1,0 +1,4 @@
+33. Steger, C. An Unbiased Detector of Curvilinear Structures. IEEE Trans. Pattern Anal. Mach. Intell. 1998, 20
+35. Ricolfe-Viala, C.; Sánchez-Salmerón, A.-J. Correcting non-linear lens distortion in cameras without using a model. Opt. Laser Technol. 2010, 42
+-------------------
+46.  Bouguet, J.-Y. Pyramidal implementation of the Lucas Kanade feature tracker description of the algorithm. 9.
